@@ -1,21 +1,17 @@
 
-<h1 align="center">Hey, Welcome to my GitHub 👨‍💻 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br></h1>
+<h1 align="center">Hey, Welcome to my GitHub 👨‍💻 <img src = "https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/wave.gif" width = 50px> <br></h1>
 <br>
 
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/resume.png" width="40px" align="right">
+<img src="https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/resume.png" width="40px" align="right">
 <h3 align="right" ><a href=" ">Download my Resume</a></h3>
 
-<img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="left">
-<h4 align="left"> Hi! My name is Michał Dąbrowski. Thank You for taking the time to view my GitHub Profile :smile:  I'm a Pre-final year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
-I am Data science, Web Development, Software development & Cyber security Enthusiast and working on and learning in these domains.
-I am Open For Internships, You can Send me your Offer on My mail or just Message me. </h4>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=m-dabrowsky.m-dabrowsky)
+<img src="https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/Img.jpeg" width="300px" align="left">
+<h4 align="left"> Hi! My name is Michał Dąbrowski. Thank You for taking the time to view my GitHub Profile :smile: Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
+I am Software development & Automatic and Robotics Control Engineer working on and learning in these domains. </h4>
 
 
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/eat%2Csleep%2Ccode%2Crepeat.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -44,7 +40,7 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/m-dabrowsky/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
 </a>
 <br>
