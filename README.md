@@ -5,15 +5,15 @@
 <img src="https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/resume.png" width="40px" align="right">
 <h3 align="right" ><a href=" ">Download my Resume</a></h3>
 
+
 <img src="https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/programmer-crop.gif" width="300px" align="left">
-<h4 align="left"> Hi! My name is Michał Dąbrowski. Thank You for taking the time to view my GitHub Profile :smile: Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
-I am Software development & Automatic and Robotics Control Engineer working on and learning in these domains. </h4>
+<h4 align="left"> My name is Michał Dąbrowski. Thank You for taking the time to view my GitHub Profile :smile: Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities. I am Software development & Automatic and Robotics Control Engineer working on and learning in these domains. </h4>
 
+<br>
 
+<h2> About Me <img src = "https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/eat%20sleep%20code.gif" width = 60px ></h2>
 
-<h2 align="left"> About Me <img src = "https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/eat%2Csleep%2Ccode%2Crepeat.gif" width = 100px></h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/embedded-solutions.svg" />
 
 
 - 🔭 I’m currently working on A few projects on Raspberry Pi 4
@@ -24,7 +24,7 @@ I am Software development & Automatic and Robotics Control Engineer working on a
 
 - 💬 Talk to me about Raspberry Pi, STM32, Python, C++, Java 
 
-
+<br>
 <h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/m-dabrowsky?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src 
 ='https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/cpp.svg'> </a>
@@ -35,20 +35,16 @@ I am Software development & Automatic and Robotics Control Engineer working on a
 <a href= https://github.com/m-dabrowsky?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/java.svg'> </a>
 <a href= https://github.com/m-dabrowsky?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' src ='https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/spring.svg'> </a>
 <a href= https://github.com/m-dabrowsky?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' src ='https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/hibernate.svg'> </a>
-<a href= https://github.com/m-dabrowsky?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/github.svg'> </a>
 
+
+
+<br>
 
 <h2 align="left"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/b67463120'> <img width = '32px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/m-dabrowsky'> <img width = '32px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-
-<h2 align="left"> Stuff I worked on last week  <img src = "https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/giphy.gif" width = 70px> </h2>
-<a href="https://github.com/m-dabrowsky/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
-</a>
-<br>
-
+<br><br>
 
 <h2 align="left"> My GitHub Stats <img src='https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/githubs.gif' width='32px'> </h2>
 
