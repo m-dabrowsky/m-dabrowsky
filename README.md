@@ -1,28 +1,26 @@
-<div align="center">
-<img width="100%" height = "250px" src="C:/Users/micha/Desktop/cpp/04. Obrazki/AdobeStock_211348512.jpg" alt="cover" />
-</div>
-
 
 <h1 align="center">Hey, Welcome to my GitHub 👨‍💻❤️ <br></h1>
 <br>
 
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/resume.png" width="40px" align="right">
-<h3 align="right" ><a href="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Resume%20-%20Bhargav%20Joshi.pdf">Download my Resume</a></h3>
+<h3 align="right" ><a href=" ">Download my Resume</a></h3>
 
 <img src="https://github.com/bhargav-joshi/bhargav-joshi/blob/master/Assets/programmer-crop.gif" width="300px" align="left">
-<h4 align="left"> I'm a Pre-final year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
+<h4 align="left"> <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+</p>
+<div size='20px'> Hi! My name is Michał Dąbrowski. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+
+<p align='center'>
+I'm a Pre-final year student at Vidyalankar Institute of Technology, Mumbai pursuing Bachelor of Engineering in Computer Science Engineering. Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities.
 I am Data science, Web Development, Software development & Cyber security Enthusiast and working on and learning in these domains.
 I am Open For Internships, You can Send me your Offer on My mail or just Message me. </h4>
 
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=m-dabrowsky.m-dabrowsky)
 
-</p>
-<div size='20px'> Hi! My name is Michał Dąbrowski. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
@@ -47,17 +45,10 @@ I am Open For Internships, You can Send me your Offer on My mail or just Message
 <a href= https://github.com/m-dabrowsky?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 
 
-```text
-Fuck up things   ███████████████████████░░
-Programming      ███████████████████░░░░░░
-Electronic		 ███████████████░░░░░░░░░░
-```
-
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/b67463120'> <img width = '32px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/m-dabrowsky'> <img width = '32px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<br />
+
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
