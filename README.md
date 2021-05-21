@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, Welcome to my GitHub 👨‍💻 <img src = "https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/wave.gif" width = 50px> <br></h1>
+<h1 align="center">Hello, Welcome to my GitHub <img src = "https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/wave.gif" width = 50px> <br></h1>
 <br>
 
 <img src="https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/resume.png" width="40px" align="right">
