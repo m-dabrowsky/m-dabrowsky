@@ -7,7 +7,7 @@
 
 
 <img src="https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/programmer-crop.gif" width="300px" align="left">
-<h4 align="left"> My name is Michał Dąbrowski. Thank You for taking the time to view my GitHub Profile :smile: Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I'm driven by the will to create an impact and encourage diversity and inclusion in communities. I am Automatic and Robotics Control Engineer working on and learning in these domain. </h4>
+<h4 align="left"> My name is Michał Dąbrowski. Thank You for taking the time to view my GitHub Profile :smile: Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I am driven by the desire to create interesting things. I am Automatic and Robotics Control Engineer working on and learning in these domain. </h4>
 
 <br>
 
