@@ -16,11 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/embedded-solutions.svg" />
 
 
-- 🔭 I’m currently working on A few projects on Raspberry Pi 4
-
-- 🌱 I’m currently learning Embedded systems 
-
-- 👯 I’m looking to collaborate on Projects 
+- 🔭 I’m currently working on A few projects on Raspberry Pi 4 and learning Embedded systems 
 
 - 💬 Talk to me about Raspberry Pi, STM32, Python, C++, Java 
 
