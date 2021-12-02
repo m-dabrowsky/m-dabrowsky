@@ -2,9 +2,6 @@
 <h1 align="center">Hello, Welcome to my GitHub <img src = "https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/wave.gif" width = 50px> <br></h1>
 <br>
 
-<img src="https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/resume.png" width="40px" align="right">
-<h3 align="right" ><a href="https://github.com/m-dabrowsky/m-dabrowsky/blob/main/CV/Michal%20Dabrowski%20CV%202021.pdf">Download my Resume</a></h3>
-
 
 <img src="https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/programmer-crop.gif" width="300px" align="left">
 <h4 align="left"> My name is Michał. Thank You for taking the time to view my GitHub Profile :smile: I am Automatic and Robotics Control Engineer working on and learning in these domain. I am also interested in embedded systems and programming cross-platform applications using the Qt framework. </h4>
