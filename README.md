@@ -3,7 +3,7 @@
 <br>
 
 <img src="https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/resume.png" width="40px" align="right">
-<h3 align="right" ><a href=" ">Download my Resume</a></h3>
+<h3 align="right" ><a href="https://github.com/m-dabrowsky/m-dabrowsky/blob/main/CV/Michal%20Dabrowski%20CV%202021.pdf">Download my Resume</a></h3>
 
 
 <img src="https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/programmer-crop.gif" width="300px" align="left">
