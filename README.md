@@ -7,32 +7,31 @@
 
 
 <img src="https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/programmer-crop.gif" width="300px" align="left">
-<h4 align="left"> My name is Michał Dąbrowski. Thank You for taking the time to view my GitHub Profile :smile: Being a technology-enthusiast, I love to explore new technologies and use it to solve real-life problems I am driven by the desire to create interesting things. I am Automatic and Robotics Control Engineer working on and learning in these domain. </h4>
+<h4 align="left"> My name is Michał. Thank You for taking the time to view my GitHub Profile :smile: I am Automatic and Robotics Control Engineer working on and learning in these domain. I am also interested in embedded systems and programming cross-platform applications using the Qt framework. </h4>
 
 <br>
-
-<h2> About Me <img src = "https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/eat%20sleep%20code.gif" width = 60px ></h2>
+<br>
+<h2> ⚡ Domains: </h2>
 
 <img width="55%" align="right" alt="Github" src="https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/embedded-solutions.svg" />
 
 
-- 🔭 I’m currently working on A few projects on Raspberry Pi 4 and learning Embedded systems 
-
-- 💬 Talk to me about Raspberry Pi, STM32, Python, C++, Java 
+- C++
+- Qt/QML
+- Python
+- Raspberry Pi
+- STM32
+- Blockchain Technology
+- Internet of Things
 
 <br>
 <h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/m-dabrowsky?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src 
 ='https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/cpp.svg'> </a>
 <a href= https://github.com/m-dabrowsky?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/c.svg'> </a>
+<a href= https://github.com/m-dabrowsky?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/qt.svg'> </a>
 <a href= https://github.com/m-dabrowsky?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/python.svg'> </a>
-<a href= https://github.com/m-dabrowsky?tab=repositories&q=&type=&language=arduino&sort= > <img width ='32px' src ='https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/arduino.svg'> </a>
 <a href= https://github.com/m-dabrowsky?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/raspberry-pi.svg'> </a>
-<a href= https://github.com/m-dabrowsky?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/java.svg'> </a>
-<a href= https://github.com/m-dabrowsky?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' src ='https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/spring.svg'> </a>
-<a href= https://github.com/m-dabrowsky?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' src ='https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/hibernate.svg'> </a>
-
-
 
 <br>
 
@@ -42,9 +41,8 @@
 
 <br><br>
 
-<h2 align="left"> My GitHub Stats <img src='https://github.com/m-dabrowsky/m-dabrowsky/blob/main/Assets/githubs.gif' width='32px'> </h2>
 
-![Metrics](https://metrics.lecoq.io/m-dabrowsky?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+
 
 
 
